@@ -42,6 +42,9 @@ npm start
 
 Back-end
 Node.js: For server-side development and handling API requests.
+
 Express.js: As a framework to create the application's server-side routes and manage the HTTP requests and responses.
+
 MongoDB: As the database to store and manage the polling questions, options, and votes.
+
 Postman : for the API related operations
